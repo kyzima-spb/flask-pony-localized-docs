@@ -1,0 +1,3 @@
+[submodule "flask-pony"]
+	path = flask-pony
+	url = https://github.com/kyzima-spb/flask-pony.git
